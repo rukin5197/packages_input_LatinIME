@@ -1,4 +1,4 @@
-package com.android.inputmethod.emojikeyboard
+package com.android.inputmethod.emojikeyboard;
 
 import java.util.ArrayList;
 import java.util.List;

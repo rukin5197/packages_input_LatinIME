@@ -1,4 +1,4 @@
-package com.android.inputmethod.emojikeyboard
+package com.android.inputmethod.emojikeyboard;
 
 import android.content.Context;
 import android.inputmethodservice.Keyboard.Key;
